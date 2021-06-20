@@ -1,0 +1,9 @@
+[codestyle]
+indent_type='space'
+indent_width=4
+template_file='~/template.cpp'
+workspace_dir='/pwd'
+lang='cpp'
+code_generator_file="~/cpp.py"
+[etc]
+save_no_session_cache=false
