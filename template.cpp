@@ -43,10 +43,14 @@ const std::string NO = "{{ no_str }}";
 {% if prediction_success %}
 void solve({{ formal_arguments }}) {
 
+    // long long answer = 0;
+    // std::cout << answer << std::endl;
 }
 {% else %}
 void solve() {
 
+    // long long answer = 0;
+    // std::cout << answer << std::endl;
 }
 {% endif %}
 
